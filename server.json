@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "gabriel-github",
+      "image": "https://github.com/gabriel-github.png",
+      "stars": 10
+    },
+    {
+      "id": 2,
+      "name": "diego3g",
+      "image": "https://github.com/diego3g.png",
+      "stars": 10000
+    },
+    {
+      "id": 3,
+      "name": "maykbrito",
+      "image": "https://github.com/maykbrito.png",
+      "stars": 10000
+    }
+  ]
+}
