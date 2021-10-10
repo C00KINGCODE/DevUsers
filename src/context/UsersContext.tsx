@@ -28,7 +28,7 @@ export function UsersProvider({ children }: ModalProviderProps) {
   const [users, setUsers] = useState<User[]>([]);
 
   async function removeUser(userId: number) {
-    // REMOVER USUÁRIO PELO ID
+    // REMOVER USUÁRIO
   }
 
   async function getUsers() {
