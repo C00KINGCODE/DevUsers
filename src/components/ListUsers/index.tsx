@@ -1,13 +1,9 @@
-import { useEffect, useState } from "react";
-import axios from "axios";
-
 import { AiFillStar } from "react-icons/ai";
 import { BsPencil } from "react-icons/bs";
 import { RiDeleteBinLine } from "react-icons/ri";
-
 import { useModal } from "../../context/ModalContext";
-import styles from "./styles.module.scss";
 import { useUsers } from "../../context/UsersContext";
+import styles from "./styles.module.scss";
 
 export const ListUsers = () => {
   const { openModal } = useModal();
